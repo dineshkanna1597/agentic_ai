@@ -1,0 +1,2 @@
+uv run celery -A agentic_ai_job_board.core.celery_app:celery_app worker --loglevel=INFO
+uv run python scripts/run_watcher.py

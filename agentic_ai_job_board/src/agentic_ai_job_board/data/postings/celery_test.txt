@@ -1,0 +1,30 @@
+COMPANY: Tech Solutions
+
+JOB TITLE: Python Backend Developer
+
+LOCATION: Chennai, India
+
+JOB DESCRIPTION:
+We are looking for a Python Backend Developer to build and maintain backend applications.
+
+RESPONSIBILITIES:
+- Develop REST APIs using Django REST Framework.
+- Build backend services using FastAPI.
+- Work with PostgreSQL databases.
+- Write maintainable and testable code.
+
+REQUIRED SKILLS:
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- PostgreSQL
+- REST APIs
+
+PREFERRED SKILLS:
+- Docker
+- Redis
+- Git
+
+WORK MODE:
+Remote

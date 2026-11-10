@@ -1,0 +1,21 @@
+John Smith
+Email: john.smith@example.com
+Phone: +1 555 123 4567
+
+PROFESSIONAL SUMMARY
+Python Developer with experience in Django, Django REST Framework, FastAPI, and REST API development.
+
+SKILLS
+Python, Django, Django REST Framework, FastAPI, PostgreSQL, SQL, Git
+
+WORK EXPERIENCE
+Python Developer
+ABC Technologies
+2023 - 2025
+- Developed REST APIs using Django REST Framework.
+- Worked with PostgreSQL databases.
+
+EDUCATION
+Bachelor of Computer Science
+Example University
+2020 - 2023

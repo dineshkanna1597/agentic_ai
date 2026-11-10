@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agentic_rag": "agentic_ai_job_board.agents.agentic_rag.graph:make_graph",
+    "agentic_ingestion": "agentic_ai_job_board.agents.data_ingestion.graph:graph"
+  },
+  "env": ".env"
+}

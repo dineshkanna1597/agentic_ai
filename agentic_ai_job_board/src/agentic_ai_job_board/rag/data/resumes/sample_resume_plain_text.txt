@@ -1,0 +1,79 @@
+===============================================================================
+                             ALEXANDER MORGAN
+                  Senior Full-Stack Software Engineer
+===============================================================================
+
+CONTACT INFORMATION
+-------------------
+Location:  New York, NY
+Phone:     (555) 019-2831
+Email:     alexander.morgan@example.com
+LinkedIn:  https://www.linkedin.com/in/alexander-morgan
+GitHub:    https://github.com/alexander-morgan
+Website:   https://alexandermorgan.dev
+
+
+PROFESSIONAL SUMMARY
+--------------------
+Results-driven Senior Software Engineer with over 7 years of experience 
+building scalable enterprise web applications, microservices architectures, 
+and cloud-native solutions. Proven track record leading multi-disciplinary 
+software teams, optimizing API latency by 45%, and architecting high-throughput 
+data pipelines. Passionate about modern React/Next.js frontends, robust 
+Python backend services, and automated CI/CD practices.
+
+
+TECHNICAL SKILLS & COMPETENCIES
+-------------------------------------------------------------------------------
+Category                | Technologies & Frameworks
+-------------------------------------------------------------------------------
+Frontend Development    | React, Next.js, TypeScript, Tailwind CSS, Redux
+Backend & APIs          | Python, Django REST Framework, FastAPI, Node.js, Redis
+DevOps & Cloud          | Docker, Kubernetes, AWS (EC2, S3, Lambda), CI/CD
+Architecture & Tools    | RESTful APIs, GraphQL, Microservices, Git, Jest
+-------------------------------------------------------------------------------
+
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+
+Lead Software Engineer | Apex Cloud Solutions
+Jan 2022 – Present | New York, NY
+• Architected and deployed microservices backend using FastAPI and PostgreSQL,
+  serving over 2M daily active users.
+  - Architecture Repo: https://github.com/alexander-morgan/apex-architecture
+• Spearheaded frontend migration from legacy SSR templates to Next.js and 
+  Tailwind CSS, improving PageSpeed performance scores from 54 to 92.
+• Implemented HTTP-only JWT authentication with OAuth2 integrations, 
+  enhancing application security protocols.
+• Mentored 5 junior engineers and established automated CI/CD pipelines on 
+  AWS EC2/S3 using GitHub Actions.
+
+Full-Stack Developer | Innovate Tech Labs
+Jun 2019 – Dec 2021 | New York, NY
+• Developed web services and RESTful APIs using Django REST Framework and 
+  Celery for asynchronous background job execution.
+• Integrated Redis caching layer, cutting query latency by 40% across 
+  analytical dashboard endpoints.
+• Designed interactive dashboard components with React, Zustand, and 
+  Chart.js for real-time telemetry rendering.
+
+
+KEY PROJECTS
+------------
+• E-Commerce Microservices Engine
+  Next.js, Django REST, Stripe API integration, and Redis session handling.
+  Repository: https://github.com/alexander-morgan/ecommerce-microservices
+
+• Real-Time Data Streaming Pipeline
+  Apache Kafka & PySpark streaming pipeline processing 50,000 events/sec.
+  Repository: https://github.com/alexander-morgan/realtime-kafka-pipeline
+
+
+EDUCATION & CERTIFICATIONS
+-------------------------------------------------------------------------------
+Degree / Certification             | Institution               | Year
+-------------------------------------------------------------------------------
+B.S. in Computer Science           | State University of NY    | 2015 – 2019
+AWS Certified Solutions Architect  | Amazon Web Services (AWS) | Verified 2023
+-------------------------------------------------------------------------------
